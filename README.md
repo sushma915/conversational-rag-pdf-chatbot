@@ -4,6 +4,15 @@ A **Conversational Retrieval-Augmented Generation (RAG)** application that allow
 
 The application uses **LangChain** for orchestration, **ChromaDB** as the vector database, **Hugging Face Embeddings** for semantic search, **Groq LLM** for fast inference, and **Streamlit** for an interactive user interface.
 
+## 🚀 Live Demo
+
+🔗 **Streamlit App:**  
+https://conversational-rag-pdf-chatbot-jajen4c6dw2cydeedxhpjb.streamlit.app/
+
+## 📂 GitHub Repository
+
+🔗 https://github.com/sushma915/conversational-rag-pdf-chatbot
+
 ---
 
 ## 🚀 Features
